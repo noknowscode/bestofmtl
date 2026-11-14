@@ -1,3 +1,5 @@
+> **Moved to uno-lab.** This project now lives in the `bestofmtl/` folder of [noknowscode/uno-lab](https://github.com/noknowscode/uno-lab/tree/main/bestofmtl) (private). This repository is archived and kept for its history.
+
 # Best of Montréal — Voting app concept
 
 The browser version of the same Uno Platform application in `src/`. This is an independent concept with 13 demo categories, English/French screens, local ballot storage and nomination drafts. It does not submit official votes or collect contact information.
